@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mar Tuico</h1>
 <h3 align="center">A passionate technical director / developer / entrepreneur</h3>
-<p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=martuico&show_icons=true&locale=en" alt="martuico" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martuico&" alt="martuico" />
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=martuico&label=Profile%20views&color=0e75b6&style=flat" alt="martuico" /> </p>
 
