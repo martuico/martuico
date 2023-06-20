@@ -1,4 +1,4 @@
-<p align="center"> <img width="100%" src="https://user-images.githubusercontent.com/2949921/180028414-0bcfe781-d74d-4527-a3da-c3acdf2c077d.gif" alt="martuico" /> </p>
+<p align="center"> <img width="100%" src="https://github.com/martuico/martuico/assets/2949921/6001b40b-adbc-46cc-9124-589b3191235d.gif" alt="martuico" /> </p>
 <h1 align="center">Hi 👋, I'm Mar Tuico</h1>
 <h3 align="center">A passionate technical director / developer</h3>
 
