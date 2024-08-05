@@ -1,6 +1,6 @@
 <p align="center"> <img width="100%" src="https://github.com/martuico/martuico/assets/2949921/6001b40b-adbc-46cc-9124-589b3191235d.gif" alt="martuico" /> </p>
 <h1 align="center">Hi 👋, I'm Mar Tuico</h1>
-<h3 align="center">A passionate technical director / developer</h3>
+<h3 align="center">Engineering Manager @ Code and Theory</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=martuico&label=Profile%20views&color=0e75b6&style=flat" alt="martuico" /> </p>
