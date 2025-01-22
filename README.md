@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working at **Code And Theory**
 
-- 🌱 I’m currently learning **Phoenix Framework and Flutter**
-
 - 👨‍💻 All of my projects are available at [martuico.me](martuico.me)
 
-- 💬 Ask me about **PHP, ASP classic, Javascript, Typescript, Laravel, Vue, Nuxt, NextJS, Contentful, GQL, MySQL**
+- 💬 Ask me about **PHP, ASP classic, Javascript, Typescript, Laravel, Vue, Nuxt, NextJS, Contentful, GQL, MySQL, Shopify Apps**
 
 - 📫 How to reach me **mar.tuico@gmail.com**
 
